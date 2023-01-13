@@ -1,5 +1,5 @@
 # Introduction
-Simple Note App with clean architecture, MVVM, Room Database, Navigation Components, Safe Args, and Search View
+Simple Note App using Android-Kotlin
 
 
 #  Features 
@@ -7,6 +7,17 @@ Simple Note App with clean architecture, MVVM, Room Database, Navigation Compone
 - 📝 Edit 
 - ❌ Delete notes.
 
+# Library used
+- Room
+- Viewmodel
+- Livedata
+- Coroutines
+- Navigation Component
+- Safe Args 
+- Search View
+
+# Architucture 
+- MVVM
 # Screenshots
 <img src="https://user-images.githubusercontent.com/58395863/212379730-e317fcf9-2433-472e-bdf9-bdf493cd91f7.jpg" width="267" height="580" style="max-width: 100%;">
 <img src="https://user-images.githubusercontent.com/58395863/212380713-83d759c2-aa5e-41b2-a643-223d57dcd017.jpg" width="267" height="580" style="max-width: 100%;">
